@@ -1,5 +1,12 @@
+body{
+    background: url("./background.webp") ;
+    background-size: auto;
+}
+    
 h1{
     text-align: center;
+    color: white;
+    font-size: 49px;
 }
 
 .container{
